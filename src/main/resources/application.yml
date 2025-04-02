@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: steamAPI-test-2025-04-02
+  profiles:
+    include: secret
